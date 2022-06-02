@@ -1,0 +1,28 @@
+
+Number of digits: 2
+First Nilakantha time: 47489800 nanoseconds
+Second Nilakantha time: 67000 nanoseconds
+Arithmetic-Geometric time: 124400 nanoseconds
+Cramer time: 325046500 nanoseconds
+Score: 21.463390029772405
+
+Number of digits: 1
+First Nilakantha time: 16454500 nanoseconds
+Second Nilakantha time: 21500 nanoseconds
+Arithmetic-Geometric time: 143200 nanoseconds
+Cramer time: 325992900 nanoseconds
+Score: 11.67501089424454
+
+Number of digits: 1
+First Nilakantha time: 15641900 nanoseconds
+Second Nilakantha time: 23700 nanoseconds
+Arithmetic-Geometric time: 132100 nanoseconds
+Cramer time: 320904800 nanoseconds
+Score: 11.879923671490412
+
+Number of digits: 1
+First Nilakantha time: 14353500 nanoseconds
+Second Nilakantha time: 23600 nanoseconds
+Arithmetic-Geometric time: 131400 nanoseconds
+Cramer time: 323636200 nanoseconds
+Score: 11.829255345418693
